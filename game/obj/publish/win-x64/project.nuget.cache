@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0xbO3BjTTzDiPU9ICxVlygW5FwAA9nVfhUqFV4kabtqeTFMtIMCtpUw+NHJjolUS+o5puYQIcHJC7TAt8Zz8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\38068\\source\\repos\\game\\game\\game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.21\\microsoft.netcore.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.21\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.21\\microsoft.aspnetcore.app.runtime.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
